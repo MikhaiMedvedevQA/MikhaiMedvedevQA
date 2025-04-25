@@ -1,6 +1,6 @@
 ## Привет! 👋
 #### Меня зовут Михаил, я QA Engineer.
-Точнее скоро им стану, а пока я учусь тестированию в школе QA Studio
+
 
 <!--
 **MikhaiMedvedevQA/MikhaiMedvedevQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
