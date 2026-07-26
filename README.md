@@ -1,11 +1,13 @@
 # Привет, я Михаил
-<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=22&pause=1500&color=2B6CB0&center=false&vCenter=false&multiline=true&width=760&height=120&lines=QA-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%7C+Vibe+Coder;%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B5+%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F+%D0%BD%D0%B0+Python;%D0%B2%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B+%D0%B4%D0%BB%D1%8F+QA" alt="Typing SVG" />
 
 ![vibe coding](https://img.shields.io/badge/builds%20with-vibe%20coding-ff69b4)
 ![Manual QA](https://img.shields.io/badge/role-Manual%20QA%20(B2B%20insurance)-blue)
 ![Learning](https://img.shields.io/badge/learning-Python%20automation-brightgreen)
 ![Volvo](https://img.shields.io/badge/hobby-Volvo%20XC70%20%272009-darkgreen)
+
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=22&pause=1500&color=2B6CB0&center=false&vCenter=false&multiline=true&width=760&height=120&lines=QA-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%7C+Vibe+Coder;%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B5+%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F+%D0%BD%D0%B0+Python;%D0%B2%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B+%D0%B4%D0%BB%D1%8F+QA" alt="Typing SVG" />
 ---
+
 ## О себе
 
 Я QA-инженер в IT-компании, специализация — ручное и авто-тестирование B2B-приложений (B2C реже) для страхового бизнеса. Пишу и выполняю тест-кейсы, провожу исследовательское тестирование UI и API.
@@ -32,7 +34,7 @@
 
 **Автоматизация:** Python, Selenium, pytest, Allure.
 
-**Анонимайзер (custom):** PyMuPDF, python-docx, openpyxl, pandoc, tkinter.
+**Анонимизатор (свой инструмент):** PyMuPDF, python-docx, openpyxl, pandoc, tkinter.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![pytest](https://img.shields.io/badge/pytest-passing-brightgreen)
@@ -49,6 +51,12 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-qm670si23-mick17.vercel.app/api/cards/stats?username=MikhaiMedvedevQA&theme=default" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=MikhaiMedvedevQA&theme=default" alt="Streak Stats" /></td>
+  </tr>
+</table>
 > Публичный инстанс `github-readme-stats.vercel.app` регулярно отдаёт 503 (перегружен). Эти карточки используют стабильные сервисы. Для классических карточек (stats + top-langs) задеплойте свой инстанс: fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) → Deploy на Vercel → замените домен `github-readme-stats.vercel.app` на свой.
 
 ## Хобби
@@ -59,4 +67,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?logo=github)](https://github.com/MikhaiMedvedevQA)
 
+<!-- Замените YOUR_GITHUB_USERNAME на свой логин GitHub везде в этом файле.
+     При желании добавьте ссылки на почту/Telegram/LinkedIn бейджами выше. -->
 
+---
+
+> «Сначала план, потом действие.»
