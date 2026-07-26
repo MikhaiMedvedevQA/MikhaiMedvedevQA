@@ -34,7 +34,7 @@
 
 **Автоматизация:** Python, Selenium, pytest, Allure.
 
-**Анонимизатор (свой инструмент):** PyMuPDF, python-docx, openpyxl, pandoc, tkinter.
+**Анонимайзер (custom):** PyMuPDF, python-docx, openpyxl, pandoc, tkinter.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![pytest](https://img.shields.io/badge/pytest-passing-brightgreen)
@@ -61,9 +61,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?logo=github)](https://github.com/MikhaiMedvedevQA)
 
-<!-- Замените YOUR_GITHUB_USERNAME на свой логин GitHub везде в этом файле.
-     При желании добавьте ссылки на почту/Telegram/LinkedIn бейджами выше. -->
 
----
-
-> «Сначала план, потом действие.»
