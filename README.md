@@ -57,7 +57,7 @@
 
 ## Контакты
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?logo=github)](https://github.com/MikhaiMedvedevQA)
 
 <!-- Замените YOUR_GITHUB_USERNAME на свой логин GitHub везде в этом файле.
      При желании добавьте ссылки на почту/Telegram/LinkedIn бейджами выше. -->
