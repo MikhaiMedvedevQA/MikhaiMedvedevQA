@@ -34,7 +34,7 @@
 
 **Автоматизация:** Python, Selenium, pytest, Allure.
 
-**Анонимизатор (custom tool):** PyMuPDF, python-docx, openpyxl, pandoc, tkinter.
+**Анонимайзер (custom tool):** PyMuPDF, python-docx, openpyxl, pandoc, tkinter.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![pytest](https://img.shields.io/badge/pytest-passing-brightgreen)
