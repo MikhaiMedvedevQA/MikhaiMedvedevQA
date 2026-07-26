@@ -5,7 +5,7 @@
 ![Learning](https://img.shields.io/badge/learning-Python%20automation-brightgreen)
 ![Volvo](https://img.shields.io/badge/hobby-Volvo%20XC70%20%272009-darkgreen)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=100&color=2B6CB0&center=false&vCenter=false&multiline=true&width=720&height=120&lines=QA-инженер+%7C+Vibe Coder;ручное+тестирование и автоматизация на+Python;вайбкодинг-проекты+для QA" alt="Typing SVG"  />
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=22&pause=1500&color=2B6CB0&center=false&vCenter=false&multiline=true&width=760&height=120&lines=QA-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%7C+Vibe+Coder;%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B5+%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F+%D0%BD%D0%B0+Python;%D0%B2%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B+%D0%B4%D0%BB%D1%8F+QA" alt="Typing SVG" />
 ---
 
 ## О себе
@@ -41,7 +41,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
 ![Allure](https://img.shields.io/badge/Allure-reports-orange)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-agent-blueviolet)
-
+						
 ## Статистика GitHub
 
 <table>
