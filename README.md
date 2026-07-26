@@ -46,10 +46,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=MikhaiMedvedevQA&show_icons=true&theme=default" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaiMedvedevQA&layout=compact&theme=default" alt="Top Languages" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikhaiMedvedevQA&theme=default" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=MikhaiMedvedevQA&theme=default" alt="Streak Stats" /></td>
   </tr>
 </table>
+
+> Публичный инстанс `github-readme-stats.vercel.app` регулярно отдаёт 503 (перегружен). Эти карточки используют стабильные сервисы. Для классических карточек (stats + top-langs) задеплойте свой инстанс: fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) → Deploy на Vercel → замените домен `github-readme-stats.vercel.app` на свой.
 
 ## Хобби
 
