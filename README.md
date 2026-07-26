@@ -46,8 +46,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=MikhaiMedvedevQA&show_icons=true&theme=default" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaiMedvedevQA&layout=compact&theme=default" alt="Top Languages" /></td>
   </tr>
 </table>
 
